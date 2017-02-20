@@ -39,4 +39,7 @@
     <allow-intent href="itms:*"/>
     <allow-intent href="itms-apps:*"/>
   </platform>
+  <cordova>
+    <access origin="http://www.booking.tuletaxi.com*"/>
+  </cordova>
 </widget>
